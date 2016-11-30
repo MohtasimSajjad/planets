@@ -1,3 +1,5 @@
 cold and dry, but every colour is my favourite
 
 This is a new sentence in planets.
+
+This is a second new sentence in planets file. 
